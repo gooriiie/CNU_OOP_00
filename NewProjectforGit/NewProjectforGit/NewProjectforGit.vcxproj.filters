@@ -75,10 +75,13 @@
     <ClCompile Include="homework_13_01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="TermProject.cpp">
+    <ClCompile Include="ex.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="exam.cpp">
+    <ClCompile Include="Termproject.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TermprojectExercise.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
